@@ -1,0 +1,13 @@
+pandas~=2.3.2
+numpy~=2.3.2
+matplotlib~=3.10.6
+seaborn~=0.13.2
+nltk~=3.9.1
+requests~=2.32.5
+google-play-scraper~=1.2.7
+scikit-learn~=1.7.1
+Sastrawi~=1.0.1
+wordcloud~=1.9.4
+imbalanced-learn~=0.14.0
+keras~=3.11.3
+keras-nightly~=3.12.0.dev2025090603
